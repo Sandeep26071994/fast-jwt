@@ -6,7 +6,7 @@ from app.auth.auth_bearer import JWTBearer
 posts = [
     {
         "id": 1,
-        "title": "Pancake",
+        "title": "sample",
         "content": "sandeep"
     }
 ]
